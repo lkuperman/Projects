@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Arrow
+comment0.text=\n\ The\ arrow\ class\ signifies\ when\ the\ turtle\ has\ reached\ the\ pathway\ to\ the\ next\n\ level\n\ \n\ Leah\ Kuperman\n\ 5/7/17\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Arrow\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Shark
+comment0.text=\n\ The\ shark\ class\ follows\ the\ turtle\ and\ tries\ to\ eat\ it.\n\ \n\ The\ shark\ will\ freeze\ in\ place\ if\ shot\ by\ the\ turtle\ with\ bubbles.\n\ \n\ Leah\ Kuperman\n\ 5/7/17\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Shark\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=Bubbles\ getBubbles()
+comment2.text=\n\ Looks\ for\ bubbles\ within\ the\ touching\ radius\ of\ the\ shark\n\ \n\ If\ there\ are\ bubbles,\ the\ bubbles\ are\ returned.\n\ \n\ Else,\ null.\n
+comment3.params=
+comment3.target=void\ stop()
+comment3.text=\n\ The\ shark\ will\ stop\ moving\ if\ it\ is\ hit\ by\ flying\ bubbles\n\ \n
+comment4.params=
+comment4.target=void\ attack()
+numComments=5

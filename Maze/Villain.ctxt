@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Villain
+comment0.text=\n\ The\ villain\ class\ is\ an\ abstract\ class\ that\ allows\ the\ villain\ to\ follow\n\ and\ attack\ the\ turtle\n\ \n\ @Kuperman\n\ 5/7/17\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Villain\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ attack()
+comment2.text=\n\ If\ turtle\ is\ on\ a\ villain\ object,\ set\ the\ turtle\ back\ to\ its\ starting\ \n\ position\ in\ the\ level\n\ \n\ Also\ accounts\ for\ glitch\ when\ the\ attacker\ is\ on\ the\ turtle's\ initial\ \n\ position--villain\ will\ be\ sent\ back\ to\ its\ original\ position\ if\ this\ is\ the\ \n\ case\n
+comment3.params=speed\ addAngle
+comment3.target=void\ follow(int,\ int)
+comment3.text=\n\ if\ the\ turtle\ is\ in\ the\ given\ "follow\ radius"\ then\ the\ villain\ will\n\ turn\ towards\ it\ and\ follow\ it\ at\ the\ given\ speed\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Starfish
+comment0.text=\n\ The\ starfish\ class\ will\ slow\ down\ the\ turtle\ each\ time\ the\ turtle\ swims\ over\ it.\n\ \n\ The\ turtle\ will\ return\ to\ its\ original\ speed\ once\ it\ is\ eaten\ by\ the\ shark\ or\ \n\ touches\ coral.\n\ \n\ Leah\ Kuperman\n\ 5/7/17\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Starfish\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ attack()
+comment2.text=\n\ reduces\ the\ speed\ of\ the\ turtle\ then\ disappears\n\ \n
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bubbles
+comment0.text=\n\ The\ bubble\ class\ serves\ as\ weaponry\ for\ the\ turtle.\n\ \n\ Leah\ Kuperman\n\ 5/7/17\n
+comment1.params=
+comment1.target=Bubbles()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Bubbles\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=num
+comment2.target=Bubbles(int)
+comment2.text=\n\ the\ two\ different\ constructors\ determine\ the\ speed\ the\ bubbles\ should\ go\n\ (some\ bubbles\ should\ not\ move)\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=boolean\ isShooting()
+comment4.text=\n\ returns\ whether\ or\ not\ the\ current\ bubble\ is\ a\ shooting\ bubble\ or\ a\n\ stationary\ bubble\ in\ the\ world\n
+numComments=5

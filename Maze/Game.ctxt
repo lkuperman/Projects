@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ The\ game\ class\ provides\ a\ series\ of\ useful\ methods\ that\ all\ actors\n\ in\ the\ game\ can\ take\ advantage\ of.\n\ \n\ Leah\ Kuperman\n\ 5/7/17\n
+comment1.params=
+comment1.target=void\ disappear()
+comment1.text=\n\ changes\ the\ image\ of\ any\ object\ to\ invisible\ so\ that\ the\ obkect\ "disappears"\n
+comment2.params=
+comment2.target=Turtle\ getTurtle()
+comment2.text=\n\ Finds\ a\ turtle\ within\ the\ "touching\ radius"\ of\ the\ current\ actor\n\ \n\ if\ the\ turtle\ exists,\ the\ turtle\ is\ returned\n\ \n\ otherwise,\ null\n
+comment3.params=
+comment3.target=boolean\ onTurtle()
+comment3.text=\n\ Returns\ if\ actor\ is\ on\ the\ turtle\ or\ not\n
+comment4.params=x\ y\ addAngle
+comment4.target=void\ turnTowards(int,\ int,\ int)
+comment4.text=\n\ Turns\ toward\ a\ given\ point\n\ \n\ ***found\ from\ Greenfoot\ website\n
+comment5.params=a\ addAngle
+comment5.target=void\ turnTowards(greenfoot.Actor,\ int)
+comment5.text=\n\ Turns\ toward\ a\ given\ actor\n\ \n\ ***found\ from\ Greenfoot\ website\n
+numComments=6

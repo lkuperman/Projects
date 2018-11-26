@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Turtle
+comment0.text=\n\ The\ turtle\ is\ the\ main\ character\ in\ the\ game.\n\ \n\ The\ turtle's\ goal\ is\ to\ make\ it\ through\ all\ of\ the\ levels\ with\ the\ least\n\ amount\ of\ tries,\ while\ collecting\ the\ most\ amount\ of\ shrimp\ possible.\n\ \n\ The\ turtle\ will\ be\ chased\ by\ the\ shark,\ and\ the\ starfish\ will\ slow\ the\ turtle\n\ down\ if\ the\ turtle\ runs\ into\ it.\n\ \n\ If\ the\ turtle\ shoots\ a\ shark,\ the\ shark\ will\ freeze\ in\ position.\ The\ shark\ can\n\ still\ kill\ the\ turtle\ if\ the\ turtle\ touches\ the\ shark.\ The\ turtle\ can\ only\ shoot\n\ when\ it\ has\ ammo.\ To\ find\ ammo,\ the\ turtle\ must\ swim\ over\ the\ bubbles.\n\ \n\ If\ the\ turtle\ touches\ or\ is\ touched\ by\ any\ of\ the\ villains\ in\ the\ game,\n\ the\ turtle\ will\ start\ back\ at\ its\ initial\ position\ in\ the\ level.\n\ \n\ Leah\ Kuperman\n\ 5/7/17\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Turtle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ eat()
+comment2.text=\n\ Turtle\ eats\ shrimp\ if\ it\ swims\ over\ it\n
+comment3.params=
+comment3.target=void\ getAmmo()
+comment3.text=\n\ Collects\ bubbles\ as\ ammo\ when\ turtle\ swims\ over\ them\n
+comment4.params=
+comment4.target=void\ backToStart()
+comment4.text=\n\ Sets\ turtle\ back\ to\ its\ original\ position\ and\ rotation\ within\ the\ level\n
+comment5.params=
+comment5.target=void\ shoot()
+comment5.text=\n\ If\ the\ user\ has\ ammunition\ to\ use\ then\ it\ can\ shoot\ the\ shark\ by\n\ clicking\ the\ screen.\n\ \n\ Bubbles\ are\ sent\ off\ from\ the\ direction\ and\ position\ of\ the\ turtle\n
+comment6.params=
+comment6.target=void\ move()
+comment6.text=\n\ Tells\ the\ turtle\ how\ to\ move\ and\ when\ it\ can\ move\n
+numComments=7
