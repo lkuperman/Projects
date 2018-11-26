@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Example
+comment0.text=\n\ Write\ a\ description\ of\ class\ here.\n\ \n\ @author\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Example()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=str\ row\ col
+comment3.target=void\ drawText(java.lang.String,\ int,\ int)
+comment3.text=\n\ Draw\ text\ in\ a\ given\ cell\n
+comment4.params=row\ col\ color
+comment4.target=void\ drawSquare(int,\ int,\ greenfoot.Color)
+comment4.text=\n\ Draws\ a\ colored\ square\n
+comment5.params=row\ col
+comment5.target=void\ drawGamera(int,\ int)
+comment5.text=\n\ Draws\ a\ picture\ of\ gamera\n
+comment6.params=row\ col
+comment6.target=void\ drawPic(int,\ int)
+comment6.text=\n\ Draws\ a\ picture\ of\ steve\ ballman\n
+numComments=7
