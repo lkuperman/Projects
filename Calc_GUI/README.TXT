@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Interactive Calculator
+PURPOSE OF PROJECT: This project utilizes a graphical user interface to create a calculator capable of manipulating both positive and negative integers of any length using addition, subtraction, and multiplication.
+DATE: 10/31/18
+AUTHORS: Leah Kuperman
+LANGUAGE: Java
+USER INSTRUCTIONS: Download all files and a Java IDE of your choice. The user must have the Java language (8.0) or newer available in order to be able to run this project.
