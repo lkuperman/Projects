@@ -1,0 +1,5 @@
+Leah | Kuperman | leah.kuperman@comcast.net | 19 | LakeForest | Coding
+Meshi | Paz | mpaz2@tulane.edu | 19 | Deerfield | Smiling
+Abby | Mishory | amishory@tulane.edu | 19 | BuffaloGrove | DrinkingCoffee
+Jorgi | Mandelbaum | jmandelbaum@tulane.edu | 19 | Aspen | Napping
+
