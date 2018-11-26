@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TestCard()
+comment0.text=\n\ Default\ constructor\ for\ test\ class\ TestCard\n
+comment1.params=
+comment1.target=void\ play()
+comment1.text=\n\ plays\ blackjack\ game\n
+comment2.params=
+comment2.target=boolean\ playAgain()
+comment2.text=\n\ This\ method\ checks\ all\ the\ cases\ of\ the\ answer\ to\ the\ question\ "Would\ you\ like\ to\ play\ again?"\n\ If\ the\ player\ says\ yes,\ a\ new\ game\ will\ be\ generated,\ if\ the\ player\ says\ no\ the\ game\ will\ crash.\n
+comment3.params=
+comment3.target=void\ test_game()
+comment3.text=\n\ Plays\ blackjack\n
+numComments=4

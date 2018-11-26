@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=theSuit\ theRank
+comment0.target=Card(int,\ int)
+comment1.params=theSuit
+comment1.target=void\ setSuit(int)
+comment1.text=\n\ constructor\ for\ each\ variable\n
+comment2.params=
+comment2.target=int\ getSuit()
+comment2.text=\n\ accessor\ for\ each\ variable\n
+comment3.params=
+comment3.target=int\ getRank()
+comment3.text=\n\ accessor\ for\ each\ variable\n
+comment4.params=theRank
+comment4.target=void\ setRank(int)
+comment4.text=\n\ constructor\ for\ each\ variable\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Converts\ the\ suit\ and\ rank\ into\ english\ so\ that\ every\ card\ can\ be\ printed\ in\ a\ readable\ way\n\ \ Ex\:\ "Ace\ of\ Spades"\n
+numComments=6

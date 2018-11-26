@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Deck\n
+comment1.params=
+comment1.target=void\ setDeck()
+comment1.text=\n\ Loads\ all\ 52\ cards\ into\ the\ deck\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Prints\ every\ card\ in\ the\ deck\n
+comment3.params=
+comment3.target=boolean\ empty()
+comment3.text=\n\ determines\ whether\ the\ deck\ is\ empty\ or\ not\n
+comment4.params=
+comment4.target=int\ numCards()
+comment4.text=\n\ The\ number\ of\ cards\ left\ is\ equal\ to\ the\ total\ number\ of\ cards\ minus\ how\ many\ have\ been\ dealt\n
+comment5.params=
+comment5.target=Card\ dealCard()
+comment6.params=
+comment6.target=int\ setTopDeck()
+comment7.params=
+comment7.target=void\ shuffle()
+numComments=8
