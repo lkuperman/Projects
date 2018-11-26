@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Calc_GUI
+comment1.params=
+comment1.target=Calc_GUI()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=input
+comment4.target=boolean\ isValidInput(java.lang.String)
+comment4.text=\n\ Checks\ several\ different\ calculator\ error\ cases\ to\ determine\ whether\ or\ not\ the\ input\ of\n\ the\ calculator\ is\ valid\ before\ attempting\ to\ evaluate\ it.\n
+comment5.params=input
+comment5.target=java.lang.String\ eval2(java.lang.String)
+comment5.text=\n\ Evaluates\ a\ mathematic\ equation\ that\ has\ already\ been\ deemed\ valid\ by\ isValidInput()\n\ Uses\ recursion\ and\ doMath()\ to\ implement\ order\ of\ operations\ and\ return\ the\ correct\ result\n
+comment6.params=pass
+comment6.target=java.lang.String\ doMath(java.lang.String)
+comment6.text=\n\ Implements\ order\ of\ operations\ and\ returns\ the\ correct\ result\ of\ a\ mathematic\ equation\n\ by\ storing\ each\ number\ and\ operation\ as\ separate\ elements\ of\ an\ ArrayList\n
+comment7.params=num
+comment7.target=java.lang.String\ ridZeroes(java.lang.String)
+comment7.text=\n\ gets\ rid\ of\ zeroes\ preceding\ a\ number\n
+numComments=8
