@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Blackjack
+PURPOSE OF PROJECT: A fun and interactive blackjack game using pseudorandom code to simulate a dealer of a deck of cards.
+VERSION or DATE: 1/8/17
+AUTHORS: Leah Kuperman
+USER INSTRUCTIONS: Download all files and the most recent version of BlueJ available. The user must have the Java language (8.0) or newer available in order to be able to run this project.
